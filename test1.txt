@@ -1,11 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 4C63-3716
-
- Directory of C:\Users\Viswanath\Desktop\GitDemo
-
-06-01-2025  22:00    <DIR>          .
-06-01-2025  22:00    <DIR>          ..
-06-01-2025  21:59    <DIR>          .git
-06-01-2025  22:00                 0 test1.txt
-               1 File(s)              0 bytes
-               3 Dir(s)  19,850,416,128 bytes free
+change 1
